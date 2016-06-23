@@ -1,7 +1,7 @@
 # Android_App
 Apps with different features
 
-BlockSMS: has feature of blocking incoming sms with assigning keyword
+BlockSMS: has feature of blocking incoming sms with assigning keyword(only work under API 16)
 
 Contacts: has feature of adding and showing the contacts from device database
 
