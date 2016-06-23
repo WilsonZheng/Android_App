@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SMS Block</string>
+    <string name="settings">Setting</string>
+    <string name="settings_title">Key words or sender</string>
+    <string name="numbers">Sender</string>
+    <string name="message">Key words</string>
+    <string name="add">ADD</string>
+    <string name="add_title">Please type in</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">Confirm</string>
+    <string name="tag_message">MESSAGE</string>
+    <string name="tag_number">PHONENUMBER</string>
+</resources>
