@@ -10,3 +10,5 @@ MaterialTabs: Contains several different type of tabs layouts such as text only,
 Networkingexample: using list view and asynTask to get list of user info from skid online server
 
 AsynTaskExample:(AsynTask and toast) displaying an image with progress bar and show toast message when clicking an button. 
+
+LoginExample: A login example with verification logic
