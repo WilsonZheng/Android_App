@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Contacts</string>
+    <string name="name">Name:</string>
+    <string name="phone">Phone:</string>
+    <string name="add">Add</string>
+    <string name="addContact">Add Contact</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="call_phone">Call Phone</string>
+    <string name="send_sms">Send Message</string>
+    <string name="choice">Please Select</string>
+    <string name="inputName">Please input name</string>
+    <string name="inputPhoneNumber">Please input number</string>
+    <string name="deflautMessage">Send Message</string>
+</resources>

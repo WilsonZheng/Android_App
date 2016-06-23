@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="choices_array">
+        <item>@string/call_phone</item>
+        <item>@string/send_sms</item>
+        </string-array>
+</resources>
